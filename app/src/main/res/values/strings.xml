@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Word App</string>
+    <string name="detail_prefix" />
+    <string name="look_up_words" />
+    <string name="look_up_word" />
+    <string name="action_switch_layout" />
+</resources>
